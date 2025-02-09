@@ -1,5 +1,0 @@
-#!/Users/parthabhang/Desktop/DL/text_classification/textenv/bin/python3.11
-
-import pydoc
-if __name__ == '__main__':
-    pydoc.cli()
